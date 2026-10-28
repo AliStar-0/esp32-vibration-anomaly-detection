@@ -1,0 +1,5 @@
+numpy
+pyserial
+matplotlib
+tornado
+scikit-learn
